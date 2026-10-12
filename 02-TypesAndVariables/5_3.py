@@ -6,4 +6,8 @@
 a = input('a=')
 b = input('b=')
 c = input('c=')
-volume = 
+volume = a * b * c
+s_a = 2(a*b + a*c + b*c)
+
+print({volume})
+print({s_a})
