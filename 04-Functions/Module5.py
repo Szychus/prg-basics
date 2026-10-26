@@ -1,0 +1,19 @@
+###
+# Functions to read any data type from the keyboard
+#
+def input_string(message):
+    string = input(message)
+    return string
+
+def input_integer(message):
+    integer = input(message)
+    return integer
+
+def input_real(message):
+    float = input(message)
+    return float
+
+def input_boolean(message):
+    boolean = input(message)
+    return boolean
+
